@@ -4,6 +4,14 @@ body {
       color: #f3ffbd;
 }
 
+body h1 {
+  color: yellow;
+}
+
+body h2 {
+  color: yellow;
+}
+
 a {
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
@@ -29,10 +37,11 @@ a:hover {
 .card {
         background: #70c1b3;
         padding: 10px;
-        margin: 0 auto;
+        margin: 8px auto;
         width: 50%;
         text-align: center;
         box-sizing: border-box;
+        border-radius: 10px;
 }
 
 .img-circle {
